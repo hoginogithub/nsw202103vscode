@@ -1,0 +1,15 @@
+POST http://localhost:8080/predict HTTP/1.1
+content-type: application/json
+
+{
+    "data": [
+        {
+            "time": 15,
+            "distance": 500,
+            "age": 10,
+            "story": 3,
+            "floor": 3,
+            "area": 50.0
+        }
+    ]
+}

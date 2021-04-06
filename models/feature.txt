@@ -1,0 +1,1 @@
+["time", "distance", "age", "story", "floor", "area"]
